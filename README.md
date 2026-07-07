@@ -3,52 +3,45 @@
 </p>
 
 <p align="center">
-  Hi, I'm <b>Saket Chawla</b>, a Software Engineer and AI/ML Developer based in India. I specialize in bridging the gap between intelligent machine learning models and scalable full-stack applications.
+  Hi, I'm <b>Saket Chawla</b>, a Software Engineer and AI/ML Developer based in India. I specialize in bridging the gap between intelligent machine learning architectures and scalable full-stack applications.
 </p>
 
 <p align="center">
+  <a href="https://wakeupsaket.vercel.app/">Portfolio Website</a> &bull; 
   <a href="https://linkedin.com/in/wakeupsaket">LinkedIn</a> &bull; 
-  <a href="mailto:chawlasaket4271@gmail.com">Email</a> &bull; 
-  <a href="https://github.com/Saket-Chawla">GitHub</a>
+  <a href="mailto:chawlasaket4271@gmail.com">Email</a>
 </p>
 
 ---
 
 ### 🧠 Areas of Focus
 
-* **Machine Learning & NLP** — Designing end-to-end ML pipelines, sentiment analysis, text classification, and conversational models.
-* **Full-Stack Development** — Building high-performance APIs and reactive frontends using FastAPI, React, and Node.js.
-* **Data Engineering & Analytics** — Performing EDA, data cleaning, and creating insightful dashboards with Pandas, NumPy, and Power BI.
+* **Generative AI & LLMs** — Building RAG workflows, LangChain agents, semantic matching engines, and Google Gemini integrations.
+* **Machine Learning & AI** — Developing TensorFlow, PyTorch, and Scikit-Learn models for text classification, forecasting, and predictive analytics.
+* **Full-Stack Development** — Creating responsive interfaces with React + Vite and robust backend REST APIs using FastAPI and Node.js.
 
 ---
 
 ### 🛠️ Technical Skillset
 
 ```
-  Languages  :  Python  •  SQL  •  JavaScript (ES6+)
-  AI & ML    :  PyTorch  •  TensorFlow  •  Scikit-Learn  •  FastAPI
-  Frontend   :  React  •  HTML5  •  CSS3  •  Tailwind CSS
-  Data Tech  :  Pandas  •  NumPy  •  Matplotlib  •  Power BI
-  DevOps     :  Docker  •  AWS  •  GCP  •  Git  •  GitHub Actions
+  Programming  :  Python  •  JavaScript (ES6+)  •  SQL  •  HTML5 / CSS3
+  AI & ML      :  TensorFlow  •  PyTorch  •  Scikit-Learn  •  NLTK / NLP  •  Computer Vision
+  GenAI & LLMs :  LangChain / LangGraph  •  Google Gemini API  •  OpenAI API  •  RAG
+  Web & Tools  :  React.js / Vite  •  Tailwind CSS  •  REST APIs  •  Git  •  Vercel
 ```
 
 ---
 
 ### 📂 Featured Projects
 
-* 🚀 **[Land-Graph](https://github.com/Saket-Chawla/Land-Graph)** — ML and EDA workspace for analyzing and visualizing complex geospatial and land datasets.
-* 🎮 **[Trump-Catcher-Game](https://github.com/Saket-Chawla/Trump-Catcher-Game)** — Interactive web game built using vanilla JavaScript showcasing DOM rendering, event handling, and clean code principles.
+* 💼 **[JobFit AI](https://github.com/Saket-Chawla/jobfit-free)** — A Generative AI application scoring candidate resumes against specific job descriptions using LangChain, Google Gemini, and Streamlit.
+* ⚡ **[TaskFlow](https://taskflow-pink-six.vercel.app/)** — A modern task management application featuring instant search, progress-tracking, and local persistence built with React, Vite, and Tailwind CSS.
 * 🤖 **Academic ML & NLP Models** — Prototypes for student performance forecasting and text semantic extraction using Python, TensorFlow, and custom NLP.
 
 ---
 
-### 📈 GitHub Diagnostics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saket-Chawla&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Saket's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket-Chawla&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Saket's Top Languages" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saket-Chawla&theme=transparent&hide_border=true&stroke=00000000&background=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" alt="Saket's GitHub Streak" width="98%"/>
+  Explore my full timeline, certifications, and active developments on my <b><a href="https://wakeupsaket.vercel.app/">Portfolio Website</a></b>.<br/>
+  <b>Let's build something intelligent and future-proof. Get in touch!</b>
 </p>
