@@ -37,6 +37,7 @@
 
 * 💼 **[JobFit AI](https://github.com/Saket-Chawla/jobfit-free)** — A Generative AI application scoring candidate resumes against specific job descriptions using LangChain, Google Gemini, and Streamlit.
 * ⚡ **[TaskFlow](https://taskflow-pink-six.vercel.app/)** — A modern task management application featuring instant search, progress-tracking, and local persistence built with React, Vite, and Tailwind CSS.
+* 🧠 **[QuizFlow](https://github.com/Saket-Chawla/QuizFlow)** — A premium study workspace featuring interactive 3D flashcards, dynamic multiple-choice practice quizzes, and SQLite persistence built with Next.js, Tailwind CSS, and Prisma.
 * 🤖 **Academic ML & NLP Models** — Prototypes for student performance forecasting and text semantic extraction using Python, TensorFlow, and custom NLP.
 
 ---
